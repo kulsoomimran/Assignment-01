@@ -14,7 +14,7 @@ import Bracelet12 from "../public/Bracelets/B12.jpg"
 
 export default async function Bracelets(){
     await new Promise((resolve) => {
-        setTimeout(resolve, 8000)
+        setTimeout(resolve, 3000)
     }) 
 
     return(
